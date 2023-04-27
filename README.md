@@ -1,2 +1,3 @@
 # r_code
-r code snipletts
+
+A place for everything in context with the r programming language.
